@@ -10,7 +10,7 @@ e.g.
 
 function Dashboard({ tasks, onEdit, onDelete }) destructures the objects props.tasks etc. into variables of the same names
 
-**How would you track down a performance issue in production? **
+**How would you track down a performance issue in production?**
 
 Identify the Scope: Determine if the performance issue is affecting the entire application, specific features, or individual pages. This can help narrow down the potential causes.
 
