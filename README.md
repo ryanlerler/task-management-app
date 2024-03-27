@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 # task-management-app
 
 ## Setup Instructions
-1. Clone the repository: `git clone `
+1. Clone the repository: `git clone https://github.com/ryanlerler/task-management-app.git`
 2. Navigate to the project directory: `cd task-management-app`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm run dev`
